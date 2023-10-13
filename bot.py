@@ -11,7 +11,7 @@ def analyze_sentiment(text):
     if sentiment_score >= 0.05:
         return 'Positive'
     elif sentiment_score <= -0.05:
-        return 'Отрицательный'
+        return 'negative'
     else:
         return 'Neutral'
 
