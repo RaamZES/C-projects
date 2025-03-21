@@ -1,1 +1,0 @@
-This is a chat bot for the telegram platform which, based on the text written to it with AI NLTK, determines the tone of the written text.
